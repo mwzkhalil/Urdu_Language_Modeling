@@ -14,10 +14,14 @@ This repository contains code for:
 
 We are using the Urdu portion of the OPUS100 dataset, which has been preprocessed for ease of use.
 
-## Getting Started
+## Usage
+The `UrduALBERT.ipynb` notebook provides a step-by-step guide to tokenizing Urdu text and fine-tuning pre-trained models.
+Use the provided scripts to preprocess data, tokenize text, and fine-tune models.
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/urdu-language-modeling.git
+## Acknowledgments
 
-   ```
+- The Hugging Face Transformers library for providing powerful tools for natural language processing.
+- The creators of the OPUS100 dataset for making multilingual data available.
+
+## Contact
+For any questions or collaborations, please contact khalilmahwiz@gmail.com.
