@@ -3,7 +3,7 @@
 
 ## Description
 
-This aims to create and fine-tune language models for the Urdu language using the Hugging Face Transformers library. Language models are essential for various NLP tasks such as text generation, sentiment analysis, and more.
+Fine-tune language models for the Urdu language using the Hugging Face Transformers library. Language models are essential for various NLP tasks such as text generation, sentiment analysis, and more.
 
 This repository contains code for:
 - Tokenization using SentencePiece to create a custom tokenizer for Urdu text.
